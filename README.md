@@ -703,13 +703,12 @@ ENTRYPOINT ["/app"]
 
 ## 📖 Resources
 
-- [Official Docker Documentation](https://docs.docker.com/)
-- [Docker Hub](https://hub.docker.com/)
-- [Play with Docker (Browser Playground)](https://labs.play-with-docker.com/)
-- [Docker Compose Docs](https://docs.docker.com/compose/)
-- [Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- [Docker Security Guide](https://docs.docker.com/engine/security/)
-
+- <a href="https://docs.docker.com/" target="_blank">Official Docker Documentation</a>
+- <a href="https://hub.docker.com/" target="_blank">Docker Hub</a>
+- <a href="https://labs.play-with-docker.com/" target="_blank">Play with Docker (Browser Playground)</a>
+- <a href="https://docs.docker.com/compose/" target="_blank">Docker Compose Docs</a>
+- <a href="https://docs.docker.com/develop/develop-images/dockerfile_best-practices/" target="_blank">Dockerfile Best Practices</a>
+- <a href="https://docs.docker.com/engine/security/" target="_blank">Docker Security Guide</a>
 ---
 
 <p align="center">
