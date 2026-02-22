@@ -703,6 +703,8 @@ ENTRYPOINT ["/app"]
 
 ## 📖 Resources
 
+> 💡 **Tip:** Use `Ctrl+Click` (Windows/Linux) or `Cmd+Click` (Mac) to open links in a new tab.
+
 - <a href="https://docs.docker.com/" target="_blank">Official Docker Documentation</a>
 - <a href="https://hub.docker.com/" target="_blank">Docker Hub</a>
 - <a href="https://labs.play-with-docker.com/" target="_blank">Play with Docker (Browser Playground)</a>
